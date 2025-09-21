@@ -1,6 +1,6 @@
 # NES Project
 
-## Requirement
+## Requirement to play
 
 - Mesen or any other emulator for NES
 
@@ -11,7 +11,7 @@
 
 ## Running the Game
 
-To run the game simply download the latest release [here]() and run the `out\NESlides.nes` with [Mesen](https://www.mesen.ca).
+To run the game simply download the latest release [here](https://github.com/DijiOfficial/NESlides/releases/tag/v1.0) and run the `NESlides\out\NESlides.nes` with [Mesen](https://www.mesen.ca).
 
 ## Compiling the Project from source
 

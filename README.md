@@ -3,6 +3,7 @@
 ## Requirement to play
 
 - Mesen or any other emulator for NES
+- Controller
 
 ### Requirement to compile
 
@@ -12,6 +13,22 @@
 ## Running the Game
 
 To run the game simply download the latest release [here](https://github.com/DijiOfficial/NESlides/releases/tag/v1.0) and run the `NESlides\out\NESlides.nes` with [Mesen](https://www.mesen.ca).
+
+To play the game load the `.nes` file with an Emulator like Mesen. You will need a controller to play.
+
+#### Controls
+
+| Control           | Action                       |  
+|-------------------|------------------------------|  
+| **D-PAD**         | Move / Change Selection      |  
+| **SELECT**        | Confirm Selection            |  
+| **X & A**         | Change Audio                 |  
+| **START**         | Cahnge Color Palett          |  
+| **Y & B**         | Shoot                        |  
+
+**AUDIO WARNING** The audio starts on max volume so be careful when playing it with headphones!
+* `X & A` are west and south buttons, if you are using a different controller.
+* `Y & B` are north and east buttons, if you are using a different controller
 
 ## Compiling the Project from source
 
